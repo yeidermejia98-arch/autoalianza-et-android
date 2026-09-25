@@ -44,3 +44,9 @@ yarn-error.*
 *.aab
 *.ipa
 *.apk
+
+# Builds locales descargados de EAS (quedan en tu computador, no en git)
+/local-builds/
+
+# Llaves y credenciales sueltas (App Store Connect, etc.) - nunca a git
+/secrets/

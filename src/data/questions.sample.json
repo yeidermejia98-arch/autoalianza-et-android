@@ -1,0 +1,67 @@
+{
+  "version": "2026-07-15-sample",
+  "examCategoryLabel": "Categoría B1 - Carro particular (EJEMPLO)",
+  "questions": [
+    {
+      "id": "q001",
+      "category": "senales",
+      "question": "¿Qué significa una señal circular con fondo rojo y una franja blanca horizontal?",
+      "options": [
+        "Ceda el paso",
+        "Prohibido el paso",
+        "Pare obligatorio",
+        "Velocidad máxima"
+      ],
+      "correctIndex": 0,
+      "explanation": "La señal de 'Ceda el paso' es un triángulo invertido, no circular. Esta es una pregunta de EJEMPLO: reemplázala con tu banco real.",
+      "isFree": true
+    },
+    {
+      "id": "q002",
+      "category": "normas",
+      "question": "En una vía urbana sin señalización de velocidad, ¿cuál es el límite general permitido? (EJEMPLO)",
+      "options": ["30 km/h", "60 km/h", "80 km/h", "100 km/h"],
+      "correctIndex": 1,
+      "isFree": true
+    },
+    {
+      "id": "q003",
+      "category": "mecanica",
+      "question": "¿Qué revisión debe hacerse periódicamente para evitar el sobrecalentamiento del motor? (EJEMPLO)",
+      "options": [
+        "Nivel de refrigerante",
+        "Presión de los espejos",
+        "Color de la pintura",
+        "Nivel de líquido limpiaparabrisas"
+      ],
+      "correctIndex": 0,
+      "isFree": true
+    },
+    {
+      "id": "q004",
+      "category": "primeros_auxilios",
+      "question": "Ante un accidente de tránsito con heridos, ¿cuál debe ser la primera acción? (EJEMPLO)",
+      "options": [
+        "Mover a los heridos de inmediato",
+        "Señalizar la zona y pedir ayuda",
+        "Retirar el vehículo antes que nada",
+        "Discutir la responsabilidad del accidente"
+      ],
+      "correctIndex": 1,
+      "isFree": false
+    },
+    {
+      "id": "q005",
+      "category": "normas",
+      "question": "¿Qué documento es obligatorio portar al conducir en Colombia? (EJEMPLO)",
+      "options": [
+        "Licencia de conducción vigente",
+        "Certificado de estudios",
+        "Contrato de trabajo",
+        "Recibo de servicios públicos"
+      ],
+      "correctIndex": 0,
+      "isFree": false
+    }
+  ]
+}

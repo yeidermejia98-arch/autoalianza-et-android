@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AUTOALIANZA · Panel Administrativo</title>
+  <link rel="icon" type="image/png" href="assets/logo.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+
+  <!-- LOGIN SCREEN -->
+  <div id="login-screen" class="login-screen">
+    <div class="login-card">
+      <img src="assets/logo.png" alt="AUTOALIANZA" class="login-logo" />
+      <h1>AUTOALIANZA</h1>
+      <p class="muted">Panel administrativo de contenido</p>
+      <form id="login-form" class="form">
+        <label>Correo electrónico
+          <input type="email" name="email" autocomplete="username" required />
+        </label>
+        <label>Contraseña
+          <input type="password" name="password" autocomplete="current-password" required />
+        </label>
+        <div class="form-actions form-actions--center">
+          <button type="submit" class="btn btn--primary btn--block">Iniciar sesión</button>
+        </div>
+        <p id="login-error" class="error-text" hidden></p>
+      </form>
+    </div>
+  </div>
+
+  <!-- APP SHELL -->
+  <div id="app-shell" class="app-shell" hidden>
+    <header class="app-header">
+      <div class="app-header__brand">
+        <img src="assets/logo.png" alt="AUTOALIANZA" class="brand-logo" />
+        <span class="app-header__brand-text">
+          <strong>AUTOALIANZA</strong>
+          <span class="muted">Panel administrativo</span>
+        </span>
+      </div>
+      <nav class="app-nav" id="app-nav">
+        <button class="nav-tab" data-tab="preguntas">Preguntas</button>
+        <button class="nav-tab" data-tab="senales">Señales</button>
+        <button class="nav-tab" data-tab="codigo">Código de Tránsito</button>
+        <button class="nav-tab" data-tab="horarios">Horarios</button>
+      </nav>
+      <div class="app-header__user">
+        <span id="user-email" class="muted small"></span>
+        <button class="btn btn--sm" id="logout-btn">Cerrar sesión</button>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <div id="content" class="content"></div>
+    </main>
+  </div>
+
+  <!-- MODAL -->
+  <div id="modal-overlay" class="modal-overlay">
+    <div class="modal">
+      <div class="modal__header">
+        <h3 id="modal-title"></h3>
+        <button id="modal-close" class="modal__close" aria-label="Cerrar">&times;</button>
+      </div>
+      <div id="modal-body" class="modal__body"></div>
+    </div>
+  </div>
+
+  <!-- TOAST -->
+  <div id="toast" class="toast"></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

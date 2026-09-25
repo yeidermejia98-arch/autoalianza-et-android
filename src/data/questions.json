@@ -1,0 +1,2190 @@
+{
+  "version": "2026-07-18",
+  "examCategoryLabel": "Banco de preguntas - Manual de referencia para la conducción de vehículos (Min. Transporte / ANSV)",
+  "categoryLabels": {
+    "mecanica_basica": "Mecánica Básica",
+    "adaptacion_medio": "Adaptación al Medio",
+    "etica_prevencion": "Ética, Prevención de Conflictos y comunicación",
+    "marco_legal": "Marco Legal",
+    "tecnicas_conduccion": "Técnicas de Conducción",
+    "otros": "Otros"
+  },
+  "questions": [
+    {
+      "id": "q001",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Cuál es el primer nivel jerárquico entre las autoridades de tránsito en Colombia, según el manual?",
+      "options": [
+        "Los Agentes de Tránsito",
+        "Los Alcaldes",
+        "La Ministra de Transporte",
+        "La Policía Nacional"
+      ],
+      "correctIndex": 2,
+      "explanation": "El manual lista en orden: 1) la Ministra de Transporte, 2) Gobernadores y Alcaldes, 3) organismos de tránsito, 4) Policía Nacional, entre otros.",
+      "source": "1.1 Autoridades de tránsito",
+      "isFree": true
+    },
+    {
+      "id": "q002",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Qué documento identifica al vehículo y lo autoriza a circular por las vías públicas?",
+      "options": [
+        "El certificado de revisión técnico-mecánica",
+        "La licencia de tránsito",
+        "La licencia de conducción",
+        "El SOAT"
+      ],
+      "correctIndex": 1,
+      "explanation": "La licencia de tránsito es el documento público que identifica al vehículo y lo autoriza a circular.",
+      "source": "1.2.1 La licencia de tránsito",
+      "isFree": false
+    },
+    {
+      "id": "q003",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿La licencia de conducción puede ser usada por otra persona distinta a su titular?",
+      "options": [
+        "Sí, siempre que sea un familiar",
+        "Sí, de forma temporal",
+        "No, es personal e intransferible",
+        "Sí, si el propietario del vehículo lo autoriza"
+      ],
+      "correctIndex": 2,
+      "explanation": "La licencia de conducción es un documento de carácter personal e intransferible.",
+      "source": "1.2.2 La licencia de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q004",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿De qué color son las placas de los vehículos de servicio particular en Colombia?",
+      "options": [
+        "Blancas",
+        "Azules",
+        "Amarillas",
+        "Verdes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las placas de servicio particular son amarillas, las de servicio público blancas y las de servicio diplomático azules.",
+      "source": "1.2.3 Las placas",
+      "isFree": false
+    },
+    {
+      "id": "q005",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Qué sigla corresponde al Seguro Obligatorio de Accidentes de Tránsito?",
+      "options": [
+        "CEA",
+        "RUNT",
+        "SOAT",
+        "CRC"
+      ],
+      "correctIndex": 2,
+      "explanation": "SOAT es el Seguro Obligatorio de Accidentes de Tránsito.",
+      "source": "1.2.4 El SOAT",
+      "isFree": false
+    },
+    {
+      "id": "q006",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Cuándo deben los vehículos nuevos de servicio particular (diferentes de motocicleta) someterse a su primera revisión técnico-mecánica y de gases?",
+      "options": [
+        "Nunca, si el vehículo es nuevo",
+        "A partir del primer año",
+        "Cada seis meses desde que es nuevo",
+        "A partir del quinto (5°) año desde su matrícula"
+      ],
+      "correctIndex": 3,
+      "explanation": "El Código Nacional de Tránsito dispone que los vehículos particulares nuevos se someten a su primera revisión a partir del quinto año desde su matrícula.",
+      "source": "1.2.5 El certificado de revisión técnico-mecánica y de gases",
+      "isFree": false
+    },
+    {
+      "id": "q007",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Cuál de los siguientes elementos NO hace parte del equipo de prevención obligatorio según el artículo 30 del Código Nacional de Tránsito Terrestre?",
+      "options": [
+        "Un botiquín de primeros auxilios",
+        "Un televisor",
+        "Un extintor",
+        "Dos señales de carretera reflectivas"
+      ],
+      "correctIndex": 1,
+      "explanation": "El televisor a la vista del conductor es, de hecho, un elemento NO permitido según el manual, mientras que extintor, botiquín y señales reflectivas sí son obligatorios.",
+      "source": "2.1.4.4 Equipo de prevención",
+      "isFree": false
+    },
+    {
+      "id": "q008",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿Cómo se llama el sistema de información electrónico y en línea que registra los datos del sector tránsito y transporte en Colombia?",
+      "options": [
+        "CRC",
+        "CEA",
+        "RUNT (Registro Único de Tránsito)",
+        "SOAT"
+      ],
+      "correctIndex": 2,
+      "explanation": "El RUNT permite registrar y mantener actualizada la información de todo el sector de tránsito y transporte.",
+      "source": "Glosario - Registro Único de Tránsito",
+      "isFree": false
+    },
+    {
+      "id": "q009",
+      "category": "marco_legal",
+      "difficulty": "baja",
+      "question": "¿A partir de qué edad mínima se puede obtener la licencia de conducción para vehículos de servicio particular?",
+      "options": [
+        "18 años cumplidos",
+        "14 años cumplidos",
+        "21 años cumplidos",
+        "16 años cumplidos"
+      ],
+      "correctIndex": 3,
+      "explanation": "Para conducir vehículos de servicio particular se exige, entre otros requisitos, tener dieciséis (16) años cumplidos.",
+      "source": "1.2.2 Requisitos para obtener la licencia de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q010",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Según la Tabla 1 del manual, ¿qué categoría de licencia se requiere para conducir un vehículo articulado de servicio público?",
+      "options": [
+        "C3",
+        "C2",
+        "A2",
+        "B3"
+      ],
+      "correctIndex": 0,
+      "explanation": "La categoría C3 habilita para conducir vehículos articulados de servicio público; la B3 es para el servicio particular.",
+      "source": "1.2.2 Categorías de la licencia de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q011",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Si un conductor es sorprendido con 45 miligramos de alcohol por cada 100 ml de sangre, ¿qué rango de suspensión de la licencia le corresponde según la Ley 1696 de 2013?",
+      "options": [
+        "Suspensión de 3 años a la cancelación",
+        "Suspensión de 10 años a la cancelación",
+        "Suspensión de 5 años a la cancelación",
+        "Suspensión de 1 a 3 años"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entre 40 y 99 mg/100ml corresponde suspensión de la licencia de 3 años a la cancelación, según la Tabla 11 del manual.",
+      "source": "2.1.2.5 Sanciones Ley 1696 de 2013",
+      "isFree": false
+    },
+    {
+      "id": "q012",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Un vehículo circula a 70 km/h. Según el artículo 108 del Código Nacional de Tránsito citado en el manual, ¿cuál es la distancia de seguridad mínima frente al vehículo que va adelante?",
+      "options": [
+        "10 metros",
+        "25 metros",
+        "20 metros",
+        "30 metros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Para velocidades entre 60 y 80 km/h, el artículo 108 establece una distancia de 25 metros.",
+      "source": "2.1.1.4 La distancia de seguridad",
+      "isFree": false
+    },
+    {
+      "id": "q013",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "¿Cuál de los siguientes requisitos se exige para la licencia de conducción de servicio público pero NO para la de servicio particular?",
+      "options": [
+        "Saber leer y escribir",
+        "Aprobar el examen teórico y práctico",
+        "Tener un documento de identidad",
+        "Tener al menos dieciocho (18) años cumplidos"
+      ],
+      "correctIndex": 3,
+      "explanation": "Para servicio particular se exigen 16 años; para servicio público, al menos 18 años cumplidos.",
+      "source": "1.2.2 Requisitos para obtener la Licencia de Conducción",
+      "isFree": false
+    },
+    {
+      "id": "q014",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "¿Qué documento certifica que un vehículo cumple con las condiciones mecánicas, ambientales y de seguridad mínimas para circular?",
+      "options": [
+        "La licencia de conducción",
+        "El certificado de revisión técnico-mecánica y de gases",
+        "El RUNT",
+        "El certificado de capacitación del CEA"
+      ],
+      "correctIndex": 1,
+      "explanation": "La revisión técnico-mecánica y de gases verifica las condiciones para que el vehículo opere debidamente sin poner en riesgo la vida ni el medio ambiente.",
+      "source": "1.2.5 El certificado de revisión técnico-mecánica y de gases",
+      "isFree": false
+    },
+    {
+      "id": "q015",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Según la Resolución No. 20253040037125 del 10 de septiembre de 2025 del Ministerio de Transporte, ¿cuántas preguntas conforman la prueba teórica del examen de conducción?",
+      "options": [
+        "Treinta (30) preguntas",
+        "Cincuenta (50) preguntas",
+        "Veinte (20) preguntas",
+        "Cuarenta (40) preguntas"
+      ],
+      "correctIndex": 3,
+      "explanation": "La prueba teórica consiste en resolver un total de cuarenta (40) preguntas de selección múltiple.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q016",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Para aprobar el examen teórico de conducción, ¿qué puntaje mínimo debe obtenerse tanto en las preguntas de actitudes como en las de conocimientos?",
+      "options": [
+        "60%",
+        "100%",
+        "80%",
+        "70%"
+      ],
+      "correctIndex": 2,
+      "explanation": "El aspirante aprueba el examen teórico si obtiene un puntaje igual o superior al 80% en conocimientos y al 80% en actitudes.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q017",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "En la prueba de destreza individual del examen práctico, ¿cuál es el puntaje mínimo para aprobarla?",
+      "options": [
+        "50 puntos",
+        "60 puntos",
+        "80 puntos",
+        "100 puntos"
+      ],
+      "correctIndex": 1,
+      "explanation": "El aspirante inicia con 100 puntos y necesita al menos 60 puntos para aprobar la prueba de destreza individual.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q018",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "¿Cuál de las siguientes situaciones constituye, por sí sola, una falta eliminatoria en la prueba de destreza individual del examen práctico?",
+      "options": [
+        "Detenerse ante un semáforo en rojo",
+        "Que el personal del CALE deba intervenir para evitar una colisión",
+        "Cometer una falta leve",
+        "Usar el cinturón de seguridad"
+      ],
+      "correctIndex": 1,
+      "explanation": "El manual indica que si el personal del CALE debe intervenir para evitar una colisión o responder ante una emergencia, se considerará falta eliminatoria.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q019",
+      "category": "marco_legal",
+      "difficulty": "media",
+      "question": "Si un vehículo con placas extranjeras ingresa temporalmente a Colombia, ¿hasta cuántos meses puede circular sin necesidad de la revisión técnico-mecánica y de emisiones?",
+      "options": [
+        "Doce (12) meses",
+        "Un (1) mes",
+        "Tres (3) meses",
+        "Seis (6) meses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Los vehículos de placas extranjeras que ingresen temporalmente y hasta por tres (3) meses no requieren la revisión técnico-mecánica y de emisiones.",
+      "source": "1.2.5 El certificado de revisión técnico-mecánica y de gases",
+      "isFree": false
+    },
+    {
+      "id": "q020",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Un aspirante comete 4 faltas deficientes en la prueba de destreza individual del examen práctico. Según el manual, ¿aprueba o no aprueba la prueba?",
+      "options": [
+        "Aprueba, porque cada falta deficiente resta pocos puntos",
+        "No aprueba, porque 4 faltas deficientes es causal de reprobación",
+        "No aprueba, pero puede repetir la prueba el mismo día",
+        "Aprueba, siempre que no tenga faltas eliminatorias"
+      ],
+      "correctIndex": 1,
+      "explanation": "El manual establece que el aspirante que incurra en 4 faltas deficientes no aprueba la prueba de destreza individual (Opción B de las combinaciones de faltas).",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q021",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Un conductor presenta 160 mg de alcohol por cada 100 ml de sangre. Según la Tabla 11 del manual (Ley 1696 de 2013), ¿qué sanción de suspensión de la licencia le corresponde?",
+      "options": [
+        "Suspensión de la licencia por 10 años a la cancelación",
+        "Suspensión de la licencia de 3 años a la cancelación",
+        "Suspensión de la licencia de 1 a 3 años",
+        "Suspensión de la licencia de 5 años a la cancelación"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desde 150 mg en adelante corresponde suspensión de la licencia por 10 años a la cancelación, multa de 720 a 1440 SMDLV y demás sanciones del rango más alto.",
+      "source": "2.1.2.5 Sanciones Ley 1696 de 2013",
+      "isFree": false
+    },
+    {
+      "id": "q022",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "De las 28 preguntas de conocimientos que componen el examen teórico, ¿cuántas corresponden al núcleo temático de 'Movilidad segura y sostenible'?",
+      "options": [
+        "Doce (12) preguntas",
+        "Veintiocho (28) preguntas",
+        "Seis (6) preguntas",
+        "Diez (10) preguntas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los núcleos temáticos son: Movilidad segura y sostenible (10 preguntas), Normas de tránsito (6), Señalización vial e infraestructura vial (6) y El vehículo (6).",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q023",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Para la recategorización de la licencia de conducción, ¿cuál es el puntaje mínimo que se exige aprobar en la prueba de maniobras en vía pública, según el manual?",
+      "options": [
+        "Al menos 60 puntos",
+        "Al menos 41 puntos",
+        "Al menos 100 puntos",
+        "Al menos 80 puntos"
+      ],
+      "correctIndex": 3,
+      "explanation": "El manual señala que para la recategorización de la licencia de conducción se requiere aprobar la prueba de maniobras en vía pública con al menos 80 puntos.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q024",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Si la suma de las faltas deficientes y/o leves de un aspirante en la prueba de destreza individual alcanza 41 puntos o más, ¿cuál es el resultado de la prueba?",
+      "options": [
+        "No aprueba la prueba",
+        "Debe repetir solo las maniobras falladas",
+        "Aprueba si no tiene faltas eliminatorias",
+        "Aprueba con observaciones"
+      ],
+      "correctIndex": 0,
+      "explanation": "Una de las combinaciones que impiden aprobar es que la suma de faltas deficientes y/o leves alcance 41 puntos o más.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q025",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "¿Cuándo debe un vehículo de servicio público (diferente a motocicleta) someterse a su primera revisión técnico-mecánica y de emisiones contaminantes?",
+      "options": [
+        "Al cumplir tres (3) años desde su matrícula",
+        "Al cumplir un (1) año desde su matrícula",
+        "Al cumplir cinco (5) años desde su matrícula",
+        "Al cumplir dos (2) años desde su matrícula"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los vehículos nuevos de servicio público, así como motocicletas y similares, se someten a su primera revisión al cumplir dos (2) años desde la matrícula; los particulares (distintos de moto) lo hacen a los 5 años.",
+      "source": "1.2.5 El certificado de revisión técnico-mecánica y de gases",
+      "isFree": false
+    },
+    {
+      "id": "q026",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Según el Decreto 780 de 2016 mencionado en el manual, ¿quién es considerado 'víctima' para efectos de las coberturas del SOAT?",
+      "options": [
+        "Solo quien porte el SOAT vigente al momento del accidente",
+        "Solamente los peatones involucrados",
+        "Toda persona que sufre daño en su salud como consecuencia de un accidente de tránsito",
+        "Únicamente el conductor responsable del accidente"
+      ],
+      "correctIndex": 2,
+      "explanation": "El artículo 2.6.1.4.3 del Decreto 780 de 2016 define que víctima es toda persona que sufre daño en su salud como consecuencia de un accidente de tránsito.",
+      "source": "1.2.4 El SOAT",
+      "isFree": false
+    },
+    {
+      "id": "q027",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Si un vehículo con remolque sufre un daño en un elemento del rectángulo negro de sus placas, ¿qué debe hacer el propietario según el manual?",
+      "options": [
+        "Pintar la parte deteriorada con el mismo color",
+        "Continuar circulando sin modificarla mientras sea legible",
+        "Cubrir el área dañada con cinta reflectiva",
+        "Obtener de nuevo las placas en el organismo de tránsito correspondiente"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cuando algún elemento al interior del rectángulo negro se pierda o deteriore, las placas deben obtenerse de nuevo en el organismo de tránsito correspondiente; en ningún caso deben pintarse o alterarse.",
+      "source": "1.2.3 Las placas",
+      "isFree": false
+    },
+    {
+      "id": "q028",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "Según la circular No. 20221010000601 del 3 de enero de 2022 del Ministerio de Transporte citada en el manual, ¿cómo se entiende cumplida la obligación de portar la licencia de tránsito y la de conducción?",
+      "options": [
+        "Mencionando de memoria el número de la licencia",
+        "Presentando el documento físico o el mensaje de datos derivado de la consulta en línea y en tiempo real en el RUNT",
+        "Presentando una fotografía de la licencia guardada en el celular",
+        "Únicamente presentando el documento físico original"
+      ],
+      "correctIndex": 1,
+      "explanation": "La circular establece que se entiende cumplida la obligación presentando el documento en físico o el mensaje de datos derivado de la consulta en línea y en tiempo real en el RUNT.",
+      "source": "1.2 Documentos obligatorios",
+      "isFree": false
+    },
+    {
+      "id": "q029",
+      "category": "marco_legal",
+      "difficulty": "alta",
+      "question": "En el examen práctico de categoría A1 o A2 (motocicletas), ¿cómo dirige el evaluador la prueba y cómo se comunica con el aspirante?",
+      "options": [
+        "Únicamente mediante señales manuales a distancia",
+        "El instructor conduce la motocicleta junto al aspirante",
+        "Como acompañante sentado en la motocicleta",
+        "Desde un automóvil próximo a la motocicleta, comunicándose mediante intercomunicador bidireccional"
+      ],
+      "correctIndex": 3,
+      "explanation": "Para categorías A1 y A2 el aspirante realiza la prueba sin acompañante, mientras el evaluador dirige la prueba desde un automóvil próximo, comunicándose mediante intercomunicador bidireccional.",
+      "source": "4. Examen teórico y práctico de conducción",
+      "isFree": false
+    },
+    {
+      "id": "q030",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "Antes de revisar los componentes básicos del vehículo en la revisión preoperacional, ¿en qué estado debe estar el vehículo?",
+      "options": [
+        "Apagado",
+        "Encendido con el freno de mano puesto",
+        "Encendido en neutro",
+        "En movimiento a baja velocidad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para revisar los componentes de la revisión preoperacional, el vehículo debe estar apagado.",
+      "source": "2.1.4.2 Revisión preoperacional",
+      "isFree": true
+    },
+    {
+      "id": "q031",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál de los siguientes es uno de los cinco componentes básicos que debe revisar cualquier conductor en la revisión preoperacional?",
+      "options": [
+        "Las alfombras internas",
+        "El sistema de sonido",
+        "El aire acondicionado",
+        "El sistema de frenos"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los cinco componentes básicos son: los líquidos, el sistema de frenos, el sistema eléctrico, las llantas y los espejos.",
+      "source": "2.1.4.2 Revisión preoperacional",
+      "isFree": true
+    },
+    {
+      "id": "q032",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "Si su vehículo es una motocicleta, ¿qué elemento adicional debe revisar en la inspección preoperacional además de los cinco componentes básicos?",
+      "options": [
+        "El perno rey",
+        "El kit de arrastre",
+        "El sistema de retención infantil",
+        "La quinta rueda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si el vehículo es una motocicleta, además de los cinco componentes básicos se debe revisar el kit de arrastre.",
+      "source": "2.1.4.2 Revisión preoperacional",
+      "isFree": false
+    },
+    {
+      "id": "q033",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál de los siguientes es un sistema de seguridad activa, es decir, destinado a evitar que se produzca un choque?",
+      "options": [
+        "El sistema de frenos",
+        "El airbag",
+        "El cinturón de seguridad",
+        "El apoyacabezas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los sistemas de seguridad activa incluyen el sistema de frenos, de iluminación, de dirección, de suspensión y el control de estabilidad.",
+      "source": "2.1.4.3 La seguridad vial pasiva y activa del vehículo",
+      "isFree": false
+    },
+    {
+      "id": "q034",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál de los siguientes es un elemento de seguridad pasiva, destinado a minimizar los efectos de un choque ya ocurrido?",
+      "options": [
+        "El sistema de frenos",
+        "El sistema de dirección",
+        "El sistema de suspensión",
+        "El airbag"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los elementos de seguridad pasiva incluyen los cinturones, los sistemas de retención infantil, los apoyacabezas y los airbags.",
+      "source": "2.1.4.3 La seguridad vial pasiva y activa del vehículo",
+      "isFree": false
+    },
+    {
+      "id": "q035",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Qué sigla corresponde al Sistema de Frenos Antibloqueo que evita que las ruedas se bloqueen al frenar fuerte?",
+      "options": [
+        "CBS",
+        "ABS",
+        "EPP",
+        "SRI"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABS (Antiblock Brakes System) es el Sistema de Frenos Antibloqueo.",
+      "source": "2.1.4.3 El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q036",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Para qué sirven los apoyacabezas del vehículo, según el manual?",
+      "options": [
+        "Prevenir lesiones cervicales en un impacto por atrás",
+        "Mejorar la aerodinámica del vehículo",
+        "Aumentar la potencia del motor",
+        "Reducir el consumo de combustible"
+      ],
+      "correctIndex": 0,
+      "explanation": "Los apoyacabezas sirven para prevenir lesiones cervicales cuando el vehículo es impactado por atrás.",
+      "source": "La seguridad pasiva - Los apoyacabezas",
+      "isFree": false
+    },
+    {
+      "id": "q037",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "Según el manual, ¿en cuánto puede reducir el uso correcto del casco la probabilidad de muerte en un accidente de tránsito en motocicleta?",
+      "options": [
+        "Hasta en un 90%",
+        "No tiene ningún efecto",
+        "Hasta en un 40%",
+        "Hasta en un 10%"
+      ],
+      "correctIndex": 2,
+      "explanation": "El uso correcto del casco reduce la probabilidad de muerte en caso de un accidente de tránsito hasta en un 40%.",
+      "source": "2.2.1 El casco",
+      "isFree": false
+    },
+    {
+      "id": "q038",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál es el elemento de protección personal mínimo obligatorio para los usuarios de motocicleta en Colombia?",
+      "options": [
+        "Las rodilleras",
+        "El casco",
+        "La chaqueta",
+        "Los guantes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Actualmente en Colombia es obligatorio el uso del casco, el EPP mínimo con el que debe contar el usuario de motocicleta.",
+      "source": "2.2.1 Elementos de protección personal",
+      "isFree": false
+    },
+    {
+      "id": "q039",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Qué función cumple el Sistema de Frenado Combinado (CBS) en una motocicleta?",
+      "options": [
+        "Enciende las luces al frenar",
+        "Apaga el motor automáticamente al frenar",
+        "Ajusta la suspensión al frenar",
+        "Distribuye el frenado en ambas ruedas aunque se accione solo una manigueta"
+      ],
+      "correctIndex": 3,
+      "explanation": "El CBS permite que el conductor frene mejor al distribuir el frenado en ambas ruedas, aunque solo esté operando una manigueta.",
+      "source": "2.2.2 Sistema Antibloqueo de Frenos y Sistema de Frenado Combinada",
+      "isFree": false
+    },
+    {
+      "id": "q040",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "Cuando el nivel del líquido de frenos está por debajo de la marca MAX del depósito, ¿qué se debe hacer según el manual?",
+      "options": [
+        "Agregar el líquido especificado por el fabricante hasta la marca MAX",
+        "Esperar a que se vacíe por completo antes de actuar",
+        "Ignorarlo si el vehículo frena bien",
+        "Rellenar el depósito con agua"
+      ],
+      "correctIndex": 0,
+      "explanation": "El nivel del líquido debe permanecer en la marca MAX del depósito; si es menor, se debe agregar el líquido especificado por el fabricante.",
+      "source": "El sistema de frenado - Indicaciones relacionadas con el sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q041",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál es la profundidad mínima aconsejable de los surcos de la banda de rodamiento de una llanta, según el manual?",
+      "options": [
+        "Igual a 0 milímetros",
+        "Superior a 10 milímetros",
+        "Exactamente 1 centímetro",
+        "Superior a 3 milímetros"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los surcos deben tener una profundidad aconsejable superior a 3 milímetros; por debajo de 1,6 mm empeora la fricción con el pavimento mojado.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q042",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cada cuánto se recomienda, como mínimo, verificar la presión de los neumáticos según el manual?",
+      "options": [
+        "Una vez al año",
+        "Cada 6 meses",
+        "Solo cuando se sienta la llanta floja",
+        "Cada 7 a 10 días"
+      ],
+      "correctIndex": 3,
+      "explanation": "La verificación de la presión de los neumáticos debe realizarse por lo menos una vez cada 7 o 10 días.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q043",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Cuál de los siguientes elementos SÍ hace parte del equipo de prevención obligatorio según el artículo 30 del Código Nacional de Tránsito Terrestre?",
+      "options": [
+        "Un televisor",
+        "Sirenas",
+        "Luces azules de emergencia",
+        "Un extintor"
+      ],
+      "correctIndex": 3,
+      "explanation": "El artículo 30 exige, entre otros, un extintor; el televisor a la vista y las luces/sirenas de emergencia no autorizadas son elementos NO permitidos.",
+      "source": "2.1.4.4 Equipo de prevención",
+      "isFree": false
+    },
+    {
+      "id": "q044",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿En qué año, según el manual, comenzó a usarse el airbag en vehículos de producción?",
+      "options": [
+        "1970",
+        "2000",
+        "1981",
+        "1995"
+      ],
+      "correctIndex": 2,
+      "explanation": "El uso del airbag en vehículos de producción empezó en 1981 en grandes berlinas de una marca alemana.",
+      "source": "La seguridad pasiva - Los airbags",
+      "isFree": false
+    },
+    {
+      "id": "q045",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Qué sistema del vehículo permite mantener el contacto entre los neumáticos y la superficie de la calzada, garantizando estabilidad y confort?",
+      "options": [
+        "El sistema de dirección",
+        "El sistema de frenos",
+        "El sistema eléctrico",
+        "El sistema de suspensión"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los sistemas de suspensión y amortiguación mantienen el contacto entre los neumáticos y la calzada, garantizando estabilidad y confort.",
+      "source": "El sistema de suspensión",
+      "isFree": false
+    },
+    {
+      "id": "q046",
+      "category": "mecanica_basica",
+      "difficulty": "baja",
+      "question": "¿Hasta qué peso aproximado se recomienda el uso de las sillas de retención infantil con fijación exclusiva a contramarcha?",
+      "options": [
+        "No tienen límite de peso",
+        "Hasta los 5 kilos",
+        "Hasta los 13 kilos",
+        "Hasta los 30 kilos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las sillas con fijación exclusiva a contramarcha están diseñadas para recién nacidos y bebés, usualmente hasta los 13 kilos (12-15 meses).",
+      "source": "2.3.1 Sistemas de retención infantil",
+      "isFree": false
+    },
+    {
+      "id": "q047",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Un mecánico observa que los discos y pastillas de freno son más eficientes que las bandas y campanas de otro sistema. ¿A qué tipo de sistema corresponden discos y pastillas?",
+      "options": [
+        "Frenos neumáticos de aire",
+        "Frenos de tambor",
+        "Frenos regenerativos",
+        "Frenos de disco"
+      ],
+      "correctIndex": 3,
+      "explanation": "Las pastillas y discos corresponden a los frenos de disco, más eficientes que los frenos de tambor (bandas y campanas).",
+      "source": "El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q048",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Si un vehículo sin ABS necesita frenar de emergencia y las llantas se bloquean, ¿qué técnica recomienda el manual?",
+      "options": [
+        "Soltar el pedal por completo y usar solo el freno de mano",
+        "Mantener el pedal presionado a fondo sin soltarlo",
+        "Acelerar para recuperar el control",
+        "Quitar y poner rápidamente presión sobre el pedal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sin frenos ABS, en emergencia se debe frenar quitando y poniendo rápidamente presión sobre el pedal para evitar que las llantas bloqueadas hagan perder el control.",
+      "source": "El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q049",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Cuál es la diferencia principal entre el freno de servicio y el freno de estacionamiento de un vehículo?",
+      "options": [
+        "El de servicio actúa solo en las ruedas delanteras y el de estacionamiento en todas",
+        "Ambos son mecánicos y actúan igual",
+        "No existe diferencia funcional entre ambos",
+        "El de servicio es hidráulico y actúa en todas las ruedas; el de estacionamiento es mecánico y actúa sobre las traseras"
+      ],
+      "correctIndex": 3,
+      "explanation": "El freno de servicio (pedal) generalmente es hidráulico y actúa sobre todas las ruedas; el de estacionamiento (freno de mano) es mecánico y actúa sobre las ruedas traseras.",
+      "source": "El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q050",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Según el manual, ¿qué indica la presencia de 'juego' en el volante, es decir, que el timón se mueve pero la dirección no responde de inmediato?",
+      "options": [
+        "Desgaste o falla en el sistema de dirección que amerita revisión",
+        "Que el vehículo tiene exceso de potencia",
+        "Que la presión de las llantas es muy alta",
+        "Que el sistema de frenos está funcionando correctamente"
+      ],
+      "correctIndex": 0,
+      "explanation": "No debe haber 'juego' en el volante; este indica desgaste e incluso riesgo de desprendimiento de una llanta.",
+      "source": "El sistema de dirección",
+      "isFree": false
+    },
+    {
+      "id": "q051",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Un conductor nota que su vehículo se balancea demasiado al tomar una curva y se inclina hacia adelante de forma excesiva al frenar. ¿Qué sistema probablemente está fallando?",
+      "options": [
+        "El sistema de suspensión",
+        "El sistema de dirección asistida",
+        "El sistema eléctrico",
+        "El sistema de frenos ABS"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estos son síntomas de amortiguadores en mal estado, parte del sistema de suspensión.",
+      "source": "El sistema de suspensión",
+      "isFree": false
+    },
+    {
+      "id": "q052",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Cuál es la función principal del habitáculo o 'célula de supervivencia' de un vehículo liviano?",
+      "options": [
+        "Mantenerse intacto para proteger a los ocupantes en un choque",
+        "Mejorar la aerodinámica",
+        "Reducir el peso total del vehículo",
+        "Absorber toda la energía del impacto deformándose por completo"
+      ],
+      "correctIndex": 0,
+      "explanation": "El habitáculo debe mantenerse intacto aun cuando el resto del vehículo se comprima por un choque o volcamiento.",
+      "source": "El habitáculo indeformable",
+      "isFree": false
+    },
+    {
+      "id": "q053",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Según el manual, ¿por qué es importante que un vehículo cuente con airbags laterales y de cortina, además de los frontales?",
+      "options": [
+        "Porque reemplazan la función del cinturón de seguridad",
+        "Porque en un impacto lateral pueden ser lo único que proteja a los ocupantes",
+        "Porque son obligatorios solo para vehículos de más de 4 puertas",
+        "Porque reducen el consumo de combustible"
+      ],
+      "correctIndex": 1,
+      "explanation": "En impactos laterales, como la prueba del poste, el conjunto cinturón-airbags laterales puede ser lo único que salve a los ocupantes.",
+      "source": "El habitáculo indeformable",
+      "isFree": false
+    },
+    {
+      "id": "q054",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Un vehículo presenta un desgaste notorio en el centro de la banda de rodamiento de sus llantas. ¿A qué se debe usualmente este patrón de desgaste?",
+      "options": [
+        "A que se ha conducido con exceso de presión de aire",
+        "A un desbalanceo del motor",
+        "A un problema del sistema de frenos",
+        "A que le falta presión de aire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un desgaste notorio en la zona central de la banda indica que los neumáticos se han usado con exceso de presión de aire.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q055",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Qué significa la medida '205/55 R16' en una llanta, según el ejemplo del manual?",
+      "options": [
+        "Un rin de 205 mm y una velocidad máxima de 55 km/h",
+        "205 mm de ancho, relación alto/ancho de 55% y rin de 16 pulgadas",
+        "205 pulgadas de ancho y 55 cm de diámetro",
+        "16 capas de refuerzo y 55% de caucho reciclado"
+      ],
+      "correctIndex": 1,
+      "explanation": "205 son los milímetros de ancho de la banda, 55% la relación alto/ancho, y 16 el diámetro del rin en pulgadas.",
+      "source": "Las dimensiones de las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q056",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Cada cuántos kilómetros se recomienda rotar las llantas para evitar que se desgasten irregularmente?",
+      "options": [
+        "Cada 100.000 km",
+        "Nunca es necesario rotarlas",
+        "Cada 1.000 km",
+        "Cada 10.000 km"
+      ],
+      "correctIndex": 3,
+      "explanation": "La rotación de las llantas es fundamental para una mayor durabilidad y se recomienda hacerla cada 10.000 km.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q057",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Por qué se recomienda cambiar las llantas alrededor de cinco años después de su montaje, aunque tengan buena profundidad de surcos?",
+      "options": [
+        "Porque el material envejece y pierde propiedades de seguridad",
+        "Porque aumentan de peso con el tiempo",
+        "Porque cambian de color con el sol",
+        "Porque el fabricante lo exige por garantía comercial"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aunque tengan poco uso y buen dibujo, el material de las llantas envejece y pierde sus propiedades para rodar con seguridad.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q058",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Qué ventaja ofrece específicamente el sistema ABS en una motocicleta, según el manual?",
+      "options": [
+        "Aumenta la velocidad máxima de la motocicleta",
+        "Elimina la necesidad de revisar los frenos",
+        "Reduce la distancia de frenado y evita que las ruedas se bloqueen",
+        "Reduce el consumo de gasolina"
+      ],
+      "correctIndex": 2,
+      "explanation": "La distancia de frenado siempre será menor en motocicletas con ABS en comparación con las que no lo tienen.",
+      "source": "2.2.2 Sistema Antibloqueo de Frenos",
+      "isFree": false
+    },
+    {
+      "id": "q059",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Según las etapas de protección infantil del manual, ¿desde qué edad puede orientarse hacia adelante la silla de retención infantil?",
+      "options": [
+        "Desde el nacimiento",
+        "Después de un (1) año",
+        "Nunca, siempre debe ir a contramarcha",
+        "Después de los cinco (5) años"
+      ],
+      "correctIndex": 1,
+      "explanation": "Después de un (1) año, las sillas de retención infantil pueden orientarse hacia adelante.",
+      "source": "2.3.1 Sistemas de retención infantil - Etapas de la protección",
+      "isFree": false
+    },
+    {
+      "id": "q060",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Qué característica deben tener los apoyos laterales de una silla de retención infantil para ofrecer mejor protección, según el manual?",
+      "options": [
+        "Cubrir solo la zona de las piernas",
+        "Ser lo más rígidos posible sin acolchado",
+        "Estar acolchados desde la cadera hasta la cabeza",
+        "No es relevante su diseño lateral"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las sillas con apoyos laterales acolchados desde la cadera hasta la cabeza son las mejores, pues protegen de los impactos laterales.",
+      "source": "2.3.1 Sistemas de retención infantil",
+      "isFree": false
+    },
+    {
+      "id": "q061",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Un vehículo circula con carga pesada en la parte trasera. Según el manual, ¿qué recomendación se debe seguir con las luces delanteras?",
+      "options": [
+        "Alinear las luces con el vehículo cargado",
+        "Cubrir parcialmente los faros",
+        "Usar solamente las luces altas",
+        "Apagar las luces delanteras"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si se lleva cargado el vehículo, se debe alinear las luces con el vehículo cargado, y volver a la alineación normal cuando se quite el peso.",
+      "source": "Las luces",
+      "isFree": false
+    },
+    {
+      "id": "q062",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Por qué no se recomienda usar las luces exploradoras de forma continua sin las luces de servicio (medias o de cruce)?",
+      "options": [
+        "Porque se pierde iluminación general y tiempo de reacción",
+        "Porque dañan la batería del vehículo",
+        "Porque consumen más combustible que las luces de cruce",
+        "Porque están prohibidas en cualquier circunstancia"
+      ],
+      "correctIndex": 0,
+      "explanation": "El uso continuo de exploradoras sin las luces de servicio hace que el conductor solo vea el área muy cercana, perdiendo espacio y tiempo de reacción.",
+      "source": "Luces auxiliares o exploradoras",
+      "isFree": false
+    },
+    {
+      "id": "q063",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Cuál de los siguientes elementos de iluminación está prohibido instalar en un vehículo particular, según el manual?",
+      "options": [
+        "Luces de freno traseras rojas",
+        "Luces de posición delanteras blancas",
+        "Luces rojas o azules de emergencia",
+        "Luces direccionales ámbar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las luces rojas o azules de emergencia son de uso exclusivo de vehículos de emergencia y de policía.",
+      "source": "Los equipos NO permitidos",
+      "isFree": false
+    },
+    {
+      "id": "q064",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "Un conductor con dirección asistida hidráulicamente escucha un 'gemido' al hacer un viraje brusco. ¿Qué puede indicar este sonido según el manual?",
+      "options": [
+        "Un problema con el nivel de fluido de la dirección asistida",
+        "Que las llantas están desalineadas",
+        "Que el freno de mano está activado",
+        "Que el motor tiene exceso de aceite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si la dirección es asistida hidráulicamente, un 'gemido' al virar bruscamente puede ser un indicador de que se debe revisar el nivel de fluido.",
+      "source": "El sistema de dirección",
+      "isFree": false
+    },
+    {
+      "id": "q065",
+      "category": "mecanica_basica",
+      "difficulty": "media",
+      "question": "¿Por qué los vehículos livianos modernos de buenas condiciones de seguridad equipan frenos de disco en todas sus ruedas en lugar de frenos de tambor?",
+      "options": [
+        "Porque son más eficientes para el frenado",
+        "Porque no requieren mantenimiento",
+        "Porque pesan menos que los de tambor",
+        "Porque son más económicos de fabricar"
+      ],
+      "correctIndex": 0,
+      "explanation": "En vehículos livianos el frenado a disco es más eficiente; los vehículos de buenas condiciones de seguridad equipan frenos a disco en todas las ruedas.",
+      "source": "El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q066",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Un vehículo sufre un impacto trasero y la cabeza del ocupante no está apoyada en el apoyacabezas. Según el manual, ¿qué lesión típica puede producirse por el movimiento en 's' del cuello?",
+      "options": [
+        "Una fractura de cadera",
+        "El efecto latigazo o esguince cervical",
+        "Una lesión en la muñeca",
+        "Un esguince de tobillo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El movimiento del cuello en forma de 's' se denomina efecto latigazo y suele producir un esguince cervical.",
+      "source": "La seguridad pasiva - Los apoyacabezas",
+      "isFree": false
+    },
+    {
+      "id": "q067",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según estudios citados en el manual (Unión Europea), ¿en qué porcentaje reduce el airbag, en conjunto con el cinturón de seguridad, la posibilidad de muerte de los ocupantes?",
+      "options": [
+        "90%",
+        "45%",
+        "20%",
+        "68%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Según estudios en la Unión Europea, el airbag reduce en un 68% la posibilidad de muerte en conjunto con el cinturón de seguridad.",
+      "source": "La seguridad pasiva - Los airbags",
+      "isFree": false
+    },
+    {
+      "id": "q068",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Si un ocupante no lleva el cinturón de seguridad ajustado al momento de un choque, ¿qué puede ocurrir con el despliegue del airbag según el manual?",
+      "options": [
+        "El airbag reducirá su velocidad de despliegue para compensar",
+        "El airbag se desactivará automáticamente por seguridad",
+        "El airbag no se activará en absoluto",
+        "Puede recibir el impacto del airbag a unos 300 km/h y sufrir más lesiones"
+      ],
+      "correctIndex": 3,
+      "explanation": "Si los ocupantes no llevan el cinturón ajustado, pueden recibir el impacto del airbag inflándose a unos 300 km/h y sufrir más lesiones.",
+      "source": "La seguridad pasiva - Los airbags",
+      "isFree": false
+    },
+    {
+      "id": "q069",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "En la llamada 'prueba del poste' (pole test) mencionada en el manual, ¿a qué velocidad se simula el impacto lateral del vehículo contra un poste?",
+      "options": [
+        "100 km/h",
+        "10 km/h",
+        "32 km/h",
+        "60 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "La prueba del poste simula la pérdida de control que lleva a impactar el costado lateral del vehículo contra un poste a 32 km/h.",
+      "source": "El habitáculo indeformable",
+      "isFree": false
+    },
+    {
+      "id": "q070",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, si al ir conduciendo estalla un neumático TRASERO del vehículo, ¿qué debe hacer el conductor con el volante?",
+      "options": [
+        "Girarlo bruscamente hacia el carril contrario",
+        "Soltarlo por completo para que el vehículo se estabilice solo",
+        "Girarlo en sentido contrario a la desviación",
+        "Girarlo hacia el lado en que se desvía la cola del vehículo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Si estalla un neumático trasero, se debe girar el volante hacia el lado en que se desvía la cola del vehículo.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q071",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, si estalla un neumático DELANTERO, ¿qué debe hacer el conductor?",
+      "options": [
+        "Acelerar para mantener el control",
+        "Frenar de forma suave sosteniendo el volante firmemente",
+        "Girar el volante hacia el lado contrario al reventón",
+        "Frenar de golpe con todas sus fuerzas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si estalla un neumático delantero, se debe frenar de forma suave sosteniendo el volante firmemente.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q072",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, una reducción de 5 libras por pulgada cuadrada (PSI) por debajo del nivel óptimo de aire en los neumáticos puede incrementar el consumo de combustible en aproximadamente:",
+      "options": [
+        "15%",
+        "0,5%",
+        "50%",
+        "3%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Una reducción de 5 PSI del nivel óptimo de aire puede incrementar el consumo de combustible en un 3% (fuente IDAE).",
+      "source": "Controle la presión de aire de los neumáticos",
+      "isFree": false
+    },
+    {
+      "id": "q073",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Un vehículo circula con baja presión de aire en una sola rueda delantera. ¿Qué efecto tiene esto sobre la dirección del vehículo, según el manual?",
+      "options": [
+        "No tiene ningún efecto sobre la dirección",
+        "El vehículo tiende a torcer hacia ese lado",
+        "El vehículo se vuelve más liviano de manejar",
+        "El vehículo tiende a frenar más rápido"
+      ],
+      "correctIndex": 1,
+      "explanation": "Una baja presión de aire en una rueda delantera hace que el vehículo tienda a torcer hacia ese lado.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q074",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "¿Qué riesgo adicional genera una baja presión de aire en ambas ruedas traseras, según el manual?",
+      "options": [
+        "Aumenta significativamente la tendencia al giro",
+        "Reduce el consumo de combustible",
+        "Disminuye la distancia de frenado",
+        "Mejora la adherencia en curvas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Una presión de aire demasiado baja en una o ambas ruedas traseras puede aumentar significativamente la tendencia al giro.",
+      "source": "Las llantas",
+      "isFree": false
+    },
+    {
+      "id": "q075",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, un filtro de aire sucio puede perjudicar el rendimiento del motor hasta en:",
+      "options": [
+        "50%",
+        "0,1%",
+        "1,5%",
+        "15%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Un filtro de aire sucio puede llegar a perjudicar en un 1,5% el rendimiento, al no aprovecharse el 100% del combustible.",
+      "source": "Beneficios de un buen mantenimiento",
+      "isFree": false
+    },
+    {
+      "id": "q076",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, un filtro de combustible en mal estado puede incrementar el consumo de combustible hasta en:",
+      "options": [
+        "0,5%",
+        "25%",
+        "50%",
+        "5%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un filtro de combustible en mal estado puede incrementar el consumo en un 0,5%, al dificultar que llegue al motor.",
+      "source": "Beneficios de un buen mantenimiento",
+      "isFree": false
+    },
+    {
+      "id": "q077",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "¿Qué distancia lateral mínima recomienda el manual dejar al pasar cerca de un ciclista con el vehículo?",
+      "options": [
+        "Al menos 0,5 metros",
+        "Al menos 1,5 metros",
+        "No es necesario dejar espacio si el ciclista va por el borde",
+        "Exactamente 3 metros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al pasar con el vehículo cerca de un ciclista se debe dejar un espacio lateral suficiente de al menos 1,5 metros.",
+      "source": "Los ciclistas",
+      "isFree": false
+    },
+    {
+      "id": "q078",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "¿Qué logra el Sistema de Control de Estabilidad de un vehículo, según el manual?",
+      "options": [
+        "Neutraliza fuerzas combinando frenado, inclinación y dirección, previniendo volcamientos",
+        "Reduce el peso del vehículo automáticamente",
+        "Aumenta la velocidad máxima del vehículo",
+        "Ajusta la altura del vehículo según el terreno"
+      ],
+      "correctIndex": 0,
+      "explanation": "El control de estabilidad funciona articulando varios sistemas: neutraliza fuerzas combinando frenado con resultados sobre inclinación y dirección, estabilizando el vehículo y previniendo volcamientos.",
+      "source": "La seguridad vial pasiva y activa del vehículo",
+      "isFree": false
+    },
+    {
+      "id": "q079",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿desde hace cuántos años, aproximadamente, están equipados los vehículos con sistemas de frenos de dos circuitos independientes?",
+      "options": [
+        "Cinco (5) años",
+        "Cuarenta (40) años",
+        "Solo los fabricados después de 2020",
+        "Cien (100) años"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los vehículos están equipados desde hace unos cuarenta años, como estándar, con sistemas de frenos de dos circuitos, de forma que una falla en uno mantiene cierto efecto de frenado en el otro.",
+      "source": "El sistema de frenado",
+      "isFree": false
+    },
+    {
+      "id": "q080",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "¿Qué característica deben tener las columnas de dirección desde hace más de 40 años como estándar de seguridad, según el manual?",
+      "options": [
+        "Estar fabricadas en fibra de vidrio",
+        "Ser completamente rígidas para mayor precisión",
+        "Girar en ambos sentidos sin restricción",
+        "Ser colapsables para evitar lesionar al conductor en un choque frontal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Las columnas colapsables son la regla desde hace más de 40 años, para que en un choque frontal el árbol se parta en las articulaciones y no sea como una lanza contra el conductor.",
+      "source": "El sistema de dirección",
+      "isFree": false
+    },
+    {
+      "id": "q081",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Si el apoyacabezas de un vehículo está en su posición más baja y con la silla reclinada, ¿qué consecuencia tiene esto sobre la protección que ofrece, según el manual?",
+      "options": [
+        "Reduce drásticamente su efectividad y puede ser contraproducente",
+        "Solo afecta a los ocupantes traseros, nunca al conductor",
+        "No afecta la protección en absoluto",
+        "Aumenta la protección al dar más espacio de movimiento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Es habitual que los apoyacabezas se ubiquen en su posición más baja o con la silla reclinada, reduciendo drásticamente su efectividad al punto de poder ser contraproducentes.",
+      "source": "La seguridad pasiva - Los apoyacabezas",
+      "isFree": false
+    },
+    {
+      "id": "q082",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según la resolución 1080 de 2019 mencionada en el manual, ¿qué se exige respecto a los cascos que se comercializan en Colombia?",
+      "options": [
+        "Que sean importados exclusivamente de Europa",
+        "Que se vendan únicamente en concesionarios de motocicletas",
+        "Que tengan un precio mínimo regulado",
+        "Que cuenten con un estándar o certificación de calidad"
+      ],
+      "correctIndex": 3,
+      "explanation": "A partir de la resolución 1080 de 2019, solo se pueden importar, fabricar y comercializar cascos con un estándar o certificación de calidad (DOT, ECE 2205R, NTC 4533).",
+      "source": "Recomendaciones sobre el uso del casco",
+      "isFree": false
+    },
+    {
+      "id": "q083",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿qué distancia máxima debe quedar entre el cuello del usuario y el sistema de retención del casco correctamente ajustado?",
+      "options": [
+        "Aproximadamente diez centímetros",
+        "Aproximadamente un centímetro",
+        "No debe quedar ninguna distancia, ni siquiera un milímetro",
+        "Al menos cinco centímetros para poder respirar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si el sistema de retención está bien ajustado, solo debe haber una distancia de un centímetro entre el cuello y el sistema de retención.",
+      "source": "Recomendaciones sobre el uso del casco",
+      "isFree": false
+    },
+    {
+      "id": "q084",
+      "category": "mecanica_basica",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿en qué orden histórico aparecieron las tecnologías de iluminación vehicular, desde las más antiguas hasta las más recientes?",
+      "options": [
+        "HID (xenón), incandescentes, LED y halógenos",
+        "Halógenos, LED, incandescentes y HID (xenón)",
+        "LED, halógenos, HID (xenón) e incandescentes",
+        "Incandescentes, halógenos, HID (xenón) y LED"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hasta antes de los años 60 se usaban bombillos incandescentes, luego fueron reemplazados por halógenos, después por descarga de alta intensidad o HID (xenón), y actualmente hay vehículos con luces LED.",
+      "source": "Tipos de bombillos para automoción",
+      "isFree": false
+    },
+    {
+      "id": "q085",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Entre qué horas recomienda el manual usar las luces medias o de cruce, por razones de visibilidad?",
+      "options": [
+        "Solo después de la medianoche",
+        "Únicamente cuando llueve",
+        "Entre las 18:00 y las 6:00 horas del día siguiente",
+        "Entre las 6:00 y las 12:00 horas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Se deben usar los faros entre la puesta y la salida del sol, específicamente entre las 18 y las 6 horas del día siguiente.",
+      "source": "Conducción durante la noche",
+      "isFree": true
+    },
+    {
+      "id": "q086",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Qué efecto tiene la niebla sobre la adherencia de los neumáticos al pavimento, según el manual?",
+      "options": [
+        "Solo afecta a los vehículos pesados",
+        "La aumenta considerablemente",
+        "La reduce, de forma similar a cuando comienza a llover",
+        "No tiene ningún efecto"
+      ],
+      "correctIndex": 2,
+      "explanation": "La niebla reduce la adherencia de los neumáticos al mojarse el pavimento, con peligro de deslizamiento similar al inicio de la lluvia.",
+      "source": "La niebla",
+      "isFree": false
+    },
+    {
+      "id": "q087",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Cuál es la velocidad máxima recomendada por el manual al circular cerca de zonas escolares o residenciales?",
+      "options": [
+        "60 km/h",
+        "80 km/h",
+        "30 km/h",
+        "100 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "En zonas escolares, residenciales o al atravesar pequeños poblados, no se debe superar los 30 km/h.",
+      "source": "Consejos para prevenir siniestros viales con peatones",
+      "isFree": false
+    },
+    {
+      "id": "q088",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Cuál es la forma característica de la señal de tránsito reglamentaria 'PARE', según el manual?",
+      "options": [
+        "Octagonal",
+        "Rómbica",
+        "Circular",
+        "Rectangular"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entre las señales reglamentarias, el manual muestra la señal PARE con forma octagonal.",
+      "source": "2.1.3.1 Señales reglamentarias",
+      "isFree": false
+    },
+    {
+      "id": "q089",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Qué color tienen las señales preventivas de tránsito, según el manual?",
+      "options": [
+        "Amarillo",
+        "Azul",
+        "Rojo",
+        "Verde"
+      ],
+      "correctIndex": 0,
+      "explanation": "Las señales preventivas se presentan en color amarillo con forma de rombo o diamante.",
+      "source": "2.1.3.1 Señales preventivas",
+      "isFree": false
+    },
+    {
+      "id": "q090",
+      "category": "adaptacion_medio",
+      "difficulty": "baja",
+      "question": "¿Quiénes son considerados, según el manual, los actores viales más vulnerables por estar completamente desprovistos de protección en caso de choque?",
+      "options": [
+        "Los conductores de automóvil",
+        "Los conductores de camión",
+        "Los conductores de bus",
+        "Los peatones"
+      ],
+      "correctIndex": 3,
+      "explanation": "Los peatones son los actores viales más vulnerables, pues en caso de choque el cuerpo humano recibe directamente los golpes.",
+      "source": "Los peatones",
+      "isFree": false
+    },
+    {
+      "id": "q091",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "Un conductor circula de noche y ve las luces de un vehículo que viene en sentido contrario. ¿Qué recomienda el manual para evitar la ceguera temporal?",
+      "options": [
+        "Encender las luces altas para ver mejor",
+        "Cerrar los ojos brevemente mientras conduce",
+        "Evitar mirar directamente a los faros del otro vehículo",
+        "Detenerse por completo en la vía"
+      ],
+      "correctIndex": 2,
+      "explanation": "La ceguera real temporal se produce al mirar directamente a los faros de un vehículo; por ello se recomienda no hacerlo.",
+      "source": "Conducción durante la noche",
+      "isFree": false
+    },
+    {
+      "id": "q092",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "¿A qué distancia aproximada del vehículo delantero debe usar las luces medias, en vez de las altas, un conductor que circula detrás de otro vehículo?",
+      "options": [
+        "A una distancia de aproximadamente una cuadra (70 a 90 metros)",
+        "Nunca debe cambiar a luces medias si va detrás de otro vehículo",
+        "Solo cuando esté a menos de 5 metros",
+        "A 500 metros de distancia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si va detrás de otros vehículos, debe usar las luces medias cuando quede a una distancia de más o menos una cuadra (70 a 90 metros) del vehículo delantero.",
+      "source": "Conducción durante la noche",
+      "isFree": false
+    },
+    {
+      "id": "q093",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "En condiciones de niebla, ¿por qué no conviene utilizar las luces altas, según el manual?",
+      "options": [
+        "Porque dañan el sistema eléctrico del vehículo",
+        "Porque consumen más batería que las luces medias",
+        "Porque están prohibidas por completo en cualquier condición climática",
+        "Porque las gotas de agua reflejan la luz como un espejo, reduciendo la visibilidad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Al proyectarse paralelas sobre la calzada, las diminutas gotas de agua y partículas en suspensión no se dejan penetrar y reflejan la luz como un espejo.",
+      "source": "La niebla",
+      "isFree": false
+    },
+    {
+      "id": "q094",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "Un conductor sufre una avería en una vía urbana secundaria donde nadie debería circular a más de 30 km/h. Según el ejemplo del manual, ¿a qué distancia aproximada debería colocar los triángulos reflectivos?",
+      "options": [
+        "A menos de 1 metro",
+        "A unos 100 metros",
+        "A unos 12 metros",
+        "A unos 44 metros"
+      ],
+      "correctIndex": 2,
+      "explanation": "A 30 km/h un vehículo se mueve unos 8 metros por segundo; dando un segundo y medio de margen, los triángulos deberían situarse a unos doce (12) metros.",
+      "source": "Los destinados para cambiar una llanta",
+      "isFree": false
+    },
+    {
+      "id": "q095",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "Si esa misma avería ocurre en una carretera donde los vehículos circulan entre 80 y 120 km/h, ¿a qué distancia deberían situarse los triángulos según el ejemplo del manual?",
+      "options": [
+        "A unos 44 metros",
+        "A unos 5 metros",
+        "A unos 24 metros",
+        "A unos 12 metros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entre 80 y 120 km/h se recorren entre 22 y 33 metros por segundo; los triángulos deberían situarse a la mayor de las distancias, unos 44 metros.",
+      "source": "Los destinados para cambiar una llanta",
+      "isFree": false
+    },
+    {
+      "id": "q096",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "¿Cuál es la función principal de las señales informativas de tránsito, según el manual?",
+      "options": [
+        "Notificar prohibiciones y restricciones",
+        "Orientar y guiar a los usuarios hacia sus destinos",
+        "Indicar límites de velocidad únicamente",
+        "Advertir sobre riesgos temporales en la vía"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las señales informativas orientan y guían a los usuarios del sistema vial para que lleguen a sus destinos de la forma más segura, simple y directa.",
+      "source": "2.1.3.1 Señales informativas",
+      "isFree": false
+    },
+    {
+      "id": "q097",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "¿Qué distancia lateral debe dejar un conductor al pasar cerca de un ciclista, especialmente con viento fuerte o en subidas, según el manual?",
+      "options": [
+        "No es necesario dejar espacio adicional",
+        "Al menos 1,5 metros",
+        "Exactamente 5 metros",
+        "Al menos 0,3 metros"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al pasar cerca de un ciclista se debe dejar un espacio lateral de al menos 1,5 metros, pues podría desviarse o tambalear.",
+      "source": "Los ciclistas",
+      "isFree": false
+    },
+    {
+      "id": "q098",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "Un adulto mayor intenta cruzar la vía y tiene dificultad para calcular la velocidad de los vehículos. ¿Qué debe hacer el conductor según el manual?",
+      "options": [
+        "Acelerar antes de que llegue al carril",
+        "Tocar el pito para que se apure",
+        "Adelantarlo por el carril contrario",
+        "Cederle el paso y esperar a que cruce"
+      ],
+      "correctIndex": 3,
+      "explanation": "Si observa a una persona mayor que trata de cruzar la vía, debe cederle el paso, ya que tardan más y tienen dificultad para calcular velocidades y distancias.",
+      "source": "Los adultos mayores",
+      "isFree": false
+    },
+    {
+      "id": "q099",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "¿Es obligatorio para los ciclistas circular siempre por las vías exclusivas o ciclo-adaptadas cuando estas existen, según el manual?",
+      "options": [
+        "Sí, es obligatorio en todas las ciudades del país",
+        "Solo es obligatorio de noche",
+        "Solo es obligatorio si hay más de tres ciclistas juntos",
+        "No, el ciclista puede usar la vía pública aunque existan vías exclusivas"
+      ],
+      "correctIndex": 3,
+      "explanation": "El ciclista tiene derecho a utilizar la vía pública como cualquier otro actor vial, incluso cuando existan vías exclusivas, pues la red aún no es lo suficientemente amplia y conectada.",
+      "source": "Ciclo infraestructura",
+      "isFree": false
+    },
+    {
+      "id": "q100",
+      "category": "adaptacion_medio",
+      "difficulty": "media",
+      "question": "Según los datos del Observatorio Nacional de Seguridad Vial (2017-2020) citados en el manual, ¿qué porcentaje de los accidentes por exceso de velocidad tuvo al menos un herido?",
+      "options": [
+        "15%",
+        "90%",
+        "7,5%",
+        "44,8%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Entre 2017 y 2020 se registraron 13.249 accidentes viales asociados al exceso de velocidad; el 44,8% de ellos tuvo al menos un herido.",
+      "source": "La velocidad y los siniestros viales",
+      "isFree": false
+    },
+    {
+      "id": "q101",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Según la Gráfica 4 del manual (distribución de víctimas fatales por exceso de velocidad en 2020), ¿qué porcentaje correspondió a motociclistas?",
+      "options": [
+        "69%",
+        "4%",
+        "17%",
+        "10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Gráfica 4 muestra que el 69% de las víctimas fatales por exceso de velocidad en 2020 fueron motociclistas.",
+      "source": "La velocidad y los siniestros viales",
+      "isFree": false
+    },
+    {
+      "id": "q102",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Según esa misma gráfica del manual, ¿qué porcentaje de las víctimas fatales por exceso de velocidad correspondió a peatones?",
+      "options": [
+        "4%",
+        "69%",
+        "10%",
+        "17%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Según la Gráfica 4, el 17% de las víctimas fatales por exceso de velocidad correspondió a peatones.",
+      "source": "La velocidad y los siniestros viales",
+      "isFree": false
+    },
+    {
+      "id": "q103",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Un conductor debe estacionarse por avería en una vía arteria donde otros conductores circulan a no más de 60 km/h (unos 16 metros por segundo). Dando un margen de un segundo y medio, ¿a qué distancia aproximada deberían colocarse los triángulos, según el ejemplo del manual?",
+      "options": [
+        "A unos 8 metros",
+        "A unos 24 metros",
+        "A unos 12 metros",
+        "A unos 44 metros"
+      ],
+      "correctIndex": 1,
+      "explanation": "A 16 metros por segundo, dando un segundo y medio de margen, los triángulos deben instalarse a unos 24 metros.",
+      "source": "Los destinados para cambiar una llanta",
+      "isFree": false
+    },
+    {
+      "id": "q104",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Con relación al género, según el manual, ¿cuántos hombres fallecen por cada mujer fallecida en accidentes asociados al exceso de velocidad?",
+      "options": [
+        "Cinco hombres",
+        "Diez hombres",
+        "Un hombre",
+        "Dos hombres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Por cada mujer fallecida en accidentes asociados al exceso de velocidad, fallecen cinco hombres en el mismo tipo de accidentes.",
+      "source": "La velocidad y los siniestros viales",
+      "isFree": false
+    },
+    {
+      "id": "q105",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Según cifras del Observatorio Nacional de Seguridad Vial citadas en el manual, ¿qué porcentaje de las víctimas fatales de siniestros viales en Colombia en 2025 correspondió a actores viales vulnerables?",
+      "options": [
+        "50%",
+        "89,22%",
+        "93%",
+        "60%"
+      ],
+      "correctIndex": 1,
+      "explanation": "En Colombia, para el 2025, el porcentaje de víctimas fatales que representan los usuarios vulnerables ascendió al 89,22%, siendo el motociclista el más afectado.",
+      "source": "Algunas consideraciones sobre los siniestros viales en el mundo y en Colombia",
+      "isFree": false
+    },
+    {
+      "id": "q106",
+      "category": "adaptacion_medio",
+      "difficulty": "alta",
+      "question": "Un conductor observa a un peatón cruzando la calle apoyado con un bastón, señal de discapacidad visual. ¿Qué debe hacer según el manual?",
+      "options": [
+        "Esperar a que el peatón le haga una señal para detenerse",
+        "Parar completamente el vehículo y ceder el paso",
+        "Reducir la velocidad sin detenerse por completo",
+        "Tocar el pito para alertar al peatón"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los conductores deben siempre ceder el paso a los peatones con discapacidad visual; cuando esté cruzando con un bastón, los vehículos deben parar completamente.",
+      "source": "Los peatones con discapacidad visual",
+      "isFree": false
+    },
+    {
+      "id": "q107",
+      "category": "etica_prevencion",
+      "difficulty": "baja",
+      "question": "¿Qué significan las siglas del protocolo de intervención PAS mencionado en el manual?",
+      "options": [
+        "Parar, Ayudar y Seguir",
+        "Prevenir, Actuar y Salvar",
+        "Proteger, Actuar y Suspender",
+        "Proteger, Avisar y Socorrer"
+      ],
+      "correctIndex": 3,
+      "explanation": "PAS son las siglas de Proteger, Avisar y Socorrer, el protocolo de intervención ante un accidente con heridos o muertos.",
+      "source": "2.1.1.3 Protocolo de intervención PAS",
+      "isFree": true
+    },
+    {
+      "id": "q108",
+      "category": "etica_prevencion",
+      "difficulty": "baja",
+      "question": "¿A qué número se debe llamar en las ciudades para pedir ayuda (Avisar) según el protocolo PAS del manual?",
+      "options": [
+        "911",
+        "#767",
+        "NUSE 123",
+        "156"
+      ],
+      "correctIndex": 2,
+      "explanation": "En ciudades se puede pedir ayuda llamando al NUSE 123; en carretera al #767.",
+      "source": "2.1.1.3 Protocolo de intervención PAS",
+      "isFree": false
+    },
+    {
+      "id": "q109",
+      "category": "etica_prevencion",
+      "difficulty": "baja",
+      "question": "Según el manual, ¿qué es la autorregulación en el contexto de la conducción?",
+      "options": [
+        "Reportar a otros conductores que cometan infracciones",
+        "Cumplir las normas de tránsito de manera autónoma, incluso sin presencia de la autoridad",
+        "Seguir las normas solo cuando hay un agente de tránsito presente",
+        "Ajustar la velocidad únicamente en carretera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Autorregularse implica asumir las normas de tránsito de manera autónoma, y no solo cuando hay presencia de la autoridad de tránsito.",
+      "source": "2.1.2.1 Autorregulación",
+      "isFree": false
+    },
+    {
+      "id": "q110",
+      "category": "etica_prevencion",
+      "difficulty": "media",
+      "question": "Según el protocolo PAS, al llamar a pedir ayuda (Avisar) en carretera, ¿a qué número se debe llamar?",
+      "options": [
+        "NUSE 123",
+        "#767",
+        "156",
+        "911"
+      ],
+      "correctIndex": 1,
+      "explanation": "En carretera se debe llamar al #767, mientras que en ciudades se llama al NUSE 123.",
+      "source": "2.1.1.3 Protocolo de intervención PAS",
+      "isFree": false
+    },
+    {
+      "id": "q111",
+      "category": "etica_prevencion",
+      "difficulty": "media",
+      "question": "Según las reglas del manejo preventivo (defensivo) del manual, ¿qué se debe hacer aunque el conductor tenga derecho de paso?",
+      "options": [
+        "Acelerar para hacer valer el derecho de paso",
+        "Tocar el pito de forma insistente",
+        "Detenerse siempre sin importar la situación",
+        "Observar la circulación de los otros vehículos y no presuponer que le darán el paso"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aunque el conductor tenga derecho de paso, debe observar la circulación de los otros vehículos y no presuponer que se lo darán.",
+      "source": "Las reglas del manejo preventivo (defensivo)",
+      "isFree": false
+    },
+    {
+      "id": "q112",
+      "category": "etica_prevencion",
+      "difficulty": "media",
+      "question": "Según el manual, ¿por qué se recomienda tener un código de comunicación no verbal entre el conductor y el acompañante de motocicleta?",
+      "options": [
+        "Porque está prohibido por ley hablar en la motocicleta",
+        "Porque el casco impide escuchar cualquier sonido",
+        "Porque reduce el consumo de combustible",
+        "Porque ambos deben mantener la máxima atención en la vía y no es ideal conversar"
+      ],
+      "correctIndex": 3,
+      "explanation": "No es ideal conversar en la motocicleta; lo mejor es que conductor y acompañante mantengan la máxima atención a la conducción, apoyados en un código de comunicación no verbal.",
+      "source": "2.2.5 Recomendaciones asociadas a la conducción con acompañante",
+      "isFree": false
+    },
+    {
+      "id": "q113",
+      "category": "etica_prevencion",
+      "difficulty": "alta",
+      "question": "Según las reglas del manejo preventivo (defensivo) del manual, ¿qué actitud se debe tener frente a la reacción de los peatones, especialmente cerca de escuelas y hospitales?",
+      "options": [
+        "Ignorarla mientras se respete la señal de tránsito",
+        "Confiar en que los peatones siempre actuarán de forma previsible",
+        "Aumentar la velocidad para pasar rápido esas zonas",
+        "Anticiparse a la reacción de los peatones"
+      ],
+      "correctIndex": 3,
+      "explanation": "Una de las reglas del manejo preventivo es anticiparse a la reacción de los peatones, principalmente en escuelas, hospitales, etc.",
+      "source": "Las reglas del manejo preventivo (defensivo)",
+      "isFree": false
+    },
+    {
+      "id": "q114",
+      "category": "etica_prevencion",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿qué se recomienda entre conductor y acompañante de motocicleta cuando el conductor va a sortear un bache en la vía?",
+      "options": [
+        "Avisarle previamente para que esté preparado y ayude a amortiguar el impacto",
+        "No es necesario avisar si el acompañante tiene experiencia",
+        "Aumentar la velocidad para pasar el bache más rápido",
+        "Detener la motocicleta por completo antes de cualquier bache"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ante un bache que el conductor no puede esquivar, el acompañante debe acompañar el movimiento levantándose un poco del asiento; para ello es necesario avisarle previamente.",
+      "source": "2.2.5 Recomendaciones asociadas a la conducción con acompañante",
+      "isFree": false
+    },
+    {
+      "id": "q115",
+      "category": "tecnicas_conduccion",
+      "difficulty": "baja",
+      "question": "Según el manual, en la maniobra de 'carreteo' que debe ejecutar un conductor de motocicleta (categoría A1 o A2), ¿qué se debe hacer?",
+      "options": [
+        "Conducir la motocicleta en reversa con el motor encendido",
+        "Estacionar la motocicleta en pendiente",
+        "Llevar la motocicleta apagada, debajo de ella, sin dejarla caer",
+        "Circular en zigzag entre obstáculos a alta velocidad"
+      ],
+      "correctIndex": 2,
+      "explanation": "El carreteo consiste en llevar la motocicleta apagada y debajo de ella, de un punto a otro, sin dejarla caer.",
+      "source": "2.2.6 Maniobras",
+      "isFree": true
+    },
+    {
+      "id": "q116",
+      "category": "tecnicas_conduccion",
+      "difficulty": "baja",
+      "question": "¿Cuál de las siguientes es una maniobra que debe poder ejecutar un conductor de categoría B1 o C1 (automóvil), según el manual?",
+      "options": [
+        "Desplazamientos en ocho",
+        "Reversa en curva para estacionamiento en perpendicular",
+        "Carreteo de la motocicleta",
+        "Acoplamiento del semirremolque"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un conductor de categoría B1 o C1 debe poder ejecutar, entre otras, la reversa en curva para estacionamiento en perpendicular.",
+      "source": "2.3.2 Maniobras",
+      "isFree": false
+    },
+    {
+      "id": "q117",
+      "category": "tecnicas_conduccion",
+      "difficulty": "baja",
+      "question": "Según el manual, ¿cuál de los dos frenos de la motocicleta es el que principalmente detiene el vehículo?",
+      "options": [
+        "Ninguno, se detiene solo con el motor",
+        "Ambos frenos por igual siempre",
+        "El freno delantero",
+        "El freno trasero"
+      ],
+      "correctIndex": 2,
+      "explanation": "El freno principal en la moto es el delantero, que es el que realmente detiene la motocicleta; el trasero se usa como complemento.",
+      "source": "Frenar (motocicleta)",
+      "isFree": false
+    },
+    {
+      "id": "q118",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "¿Qué maniobra adicional deben poder ejecutar los conductores de categoría B3 o C3 (vehículos articulados), que no se exige a los de categoría B2 o C2?",
+      "options": [
+        "El cambio de carril",
+        "La circulación en vías arteriales",
+        "El acoplamiento y desacoplamiento del semirremolque",
+        "La interacción con señales de PARE"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adicional a las maniobras de B2 y C2, un conductor de categoría B3 o C3 debe poder acoplar y desacoplar el semirremolque.",
+      "source": "2.4.3 Maniobras para conductores de vehículos articulados",
+      "isFree": false
+    },
+    {
+      "id": "q119",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "Un motociclista va a tomar una curva. ¿En qué momento debe reducir la velocidad y calcular el trazado, según el manual?",
+      "options": [
+        "Solo si hay otros vehículos cerca",
+        "Justo en la mitad de la curva",
+        "Antes de entrar a la curva, no durante el giro",
+        "Después de salir de la curva"
+      ],
+      "correctIndex": 2,
+      "explanation": "Se recomienda reducir la velocidad antes de la curva; no es recomendable frenar durante el giro.",
+      "source": "Tomar correctamente una curva",
+      "isFree": false
+    },
+    {
+      "id": "q120",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "Según el manual, si un motociclista usa solamente el freno delantero para frenar, ¿qué riesgo corre?",
+      "options": [
+        "Una transferencia de cargas brusca y posible bloqueo del neumático delantero",
+        "Que la motocicleta se apague inmediatamente",
+        "Que el freno trasero se dañe permanentemente",
+        "Ninguno, es la técnica más segura siempre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si se usa solo el freno delantero se corre el riesgo de una transferencia de cargas brusca, con el peligro de salir despedido por el frente o que se bloquee el neumático.",
+      "source": "Frenar (motocicleta)",
+      "isFree": false
+    },
+    {
+      "id": "q121",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "Según el manual, para arrancar una motocicleta en una pendiente hacia arriba, ¿qué freno se recomienda usar para sostenerla mientras se cambia a primera velocidad?",
+      "options": [
+        "El freno delantero",
+        "El freno trasero",
+        "Ningún freno, solo el acelerador",
+        "El freno de mano del automóvil que la remolca"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se recomienda emplear el freno delantero para sostener la motocicleta mientras se arranca el motor y se cambia a primera velocidad.",
+      "source": "Arrancar en una pendiente",
+      "isFree": false
+    },
+    {
+      "id": "q122",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "Según el manual, al aumentar las velocidades o marchas de un vehículo con caja manual, ¿qué se debe aprovechar para hacer el cambio de forma eficiente?",
+      "options": [
+        "La inercia o impulso acumulado",
+        "El máximo de revoluciones del motor siempre",
+        "La reducción de la velocidad del vehículo",
+        "El uso simultáneo del freno de mano"
+      ],
+      "correctIndex": 0,
+      "explanation": "El vehículo debe ir pasando por las velocidades de forma que se aproveche la inercia o impulso acumulado.",
+      "source": "Las velocidades, cambios o marchas del vehículo",
+      "isFree": false
+    },
+    {
+      "id": "q123",
+      "category": "tecnicas_conduccion",
+      "difficulty": "media",
+      "question": "Según el manual, ¿qué recomienda la 'regla de los tres segundos' para un motociclista que quiere mantener una distancia adecuada con el vehículo de adelante?",
+      "options": [
+        "Frenar cada 3 segundos para verificar la distancia",
+        "Mantener siempre 3 metros de distancia sin importar la velocidad",
+        "Contar 1101, 1102, 1103 desde una referencia fija que pasó el vehículo de adelante",
+        "Contar hasta 3 segundos exactos con un cronómetro obligatorio"
+      ],
+      "correctIndex": 2,
+      "explanation": "Se toma una referencia fija; cuando el vehículo de adelante pasa por ella, se empieza a contar 1101, 1102, 1103. Si se pasa la referencia antes de terminar de contar, se está muy cerca.",
+      "source": "Técnicas y maniobras básicas para la conducción",
+      "isFree": false
+    },
+    {
+      "id": "q124",
+      "category": "tecnicas_conduccion",
+      "difficulty": "alta",
+      "question": "Según el manual, al tomar una curva en motocicleta, ¿cuáles son, en orden, los tres puntos de referencia visual que el conductor debe fijar con la mirada?",
+      "options": [
+        "El capó del vehículo, el retrovisor y el punto de fuga",
+        "El punto de inicio, el centro exacto de la vía y el final de la calle",
+        "Solo el punto de salida, ya que es el más importante",
+        "El punto de inicio, el punto medio (ápice) y el punto de salida de la curva"
+      ],
+      "correctIndex": 3,
+      "explanation": "Las referencias visuales son: el punto de inicio de la maniobra, el punto medio o ápice de la curva, y el punto de salida.",
+      "source": "Tomar correctamente una curva",
+      "isFree": false
+    },
+    {
+      "id": "q125",
+      "category": "tecnicas_conduccion",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿por qué no es recomendable entrar frenando a una curva en motocicleta?",
+      "options": [
+        "Porque se puede perder adherencia en la rueda delantera y agarre en la trasera por el traslado de peso",
+        "Porque está prohibido por el Código Nacional de Tránsito",
+        "Porque reduce la velocidad máxima permitida en curvas",
+        "Porque daña el sistema de frenos de forma permanente"
+      ],
+      "correctIndex": 0,
+      "explanation": "No es recomendable entrar en una curva frenando, pues se podría perder adherencia en la rueda delantera al someterla a sobreesfuerzo, mientras la trasera pierde agarre por el peso trasladado a la delantera.",
+      "source": "Frenar (motocicleta)",
+      "isFree": false
+    },
+    {
+      "id": "q126",
+      "category": "tecnicas_conduccion",
+      "difficulty": "alta",
+      "question": "Un conductor con caja de cambios automática desciende una pendiente pronunciada. ¿Qué se recomienda hacer con la selección de marchas, según el manual?",
+      "options": [
+        "Seleccionar la opción en que el vehículo no supere una marcha dada",
+        "Dejar el vehículo en neutro para ahorrar combustible",
+        "Acelerar constantemente para mantener el impulso",
+        "Usar únicamente el freno de mano durante todo el descenso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si el descenso es pronunciado, se debe seleccionar la opción en que el vehículo no supere una marcha dada, controlando la velocidad con la menor intervención posible de los frenos.",
+      "source": "Disminuir las velocidades, marchas o cambios",
+      "isFree": false
+    },
+    {
+      "id": "q127",
+      "category": "tecnicas_conduccion",
+      "difficulty": "alta",
+      "question": "Según el manual, ¿por qué nunca se debe dejar rodar un vehículo en neutro o 'punto muerto' en una pendiente?",
+      "options": [
+        "Porque consume más combustible que en marcha",
+        "Porque puede tomar tanto impulso que los frenos no basten para detenerlo",
+        "Porque daña la caja de cambios de inmediato",
+        "Porque es una infracción que genera comparendo automático"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si se deja rodar el vehículo en neutro, puede tomar tanto impulso que no baste con los frenos para detenerlo antes de salirse del carril.",
+      "source": "Disminuir las velocidades, marchas o cambios",
+      "isFree": false
+    },
+    {
+      "id": "q128",
+      "category": "otros",
+      "difficulty": "baja",
+      "question": "Según el manual, ¿qué significa el concepto de 'Visión Cero'?",
+      "options": [
+        "Que la velocidad máxima permitida es cero en zonas urbanas",
+        "Que todas las muertes y lesiones graves en el tránsito son evitables",
+        "Que los accidentes de tránsito son inevitables",
+        "Que no deben existir vehículos motorizados en las ciudades"
+      ],
+      "correctIndex": 1,
+      "explanation": "Visión Cero es un proyecto de seguridad vial que reconoce que todas las muertes y lesiones graves en el tránsito son evitables.",
+      "source": "2.1.1.1 Visión Cero",
+      "isFree": true
+    },
+    {
+      "id": "q129",
+      "category": "otros",
+      "difficulty": "baja",
+      "question": "¿Cuál es uno de los beneficios de la conducción eficiente mencionados en el manual?",
+      "options": [
+        "El aumento de la velocidad máxima del vehículo",
+        "La reducción del precio de la licencia de conducción",
+        "La eliminación total del mantenimiento del vehículo",
+        "La reducción del consumo de combustible entre un 10% y un 15%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aplicar técnicas de conducción eficiente permite reducir entre un 10% y un 15% el consumo de combustible.",
+      "source": "La conducción eficiente",
+      "isFree": false
+    },
+    {
+      "id": "q130",
+      "category": "otros",
+      "difficulty": "baja",
+      "question": "Según el manual, ¿cada cuánto se recomienda hacer una pausa activa de al menos 15 minutos en un trayecto largo?",
+      "options": [
+        "Solo si el conductor se siente cansado",
+        "Cada 30 minutos sin excepción",
+        "En trayectos de más de dos horas o 200 kilómetros",
+        "Una vez al día sin importar la duración del viaje"
+      ],
+      "correctIndex": 2,
+      "explanation": "En trayectos largos que duren más de dos horas o 200 kilómetros, el conductor debería hacer pausas activas de por lo menos 15 minutos.",
+      "source": "Fatiga y distracción",
+      "isFree": false
+    },
+    {
+      "id": "q131",
+      "category": "otros",
+      "difficulty": "media",
+      "question": "Según cifras de la OMS citadas en el manual, ¿aproximadamente cuántas personas fallecen cada año en el mundo a causa de siniestros viales?",
+      "options": [
+        "500 mil personas",
+        "10 millones de personas",
+        "1,3 millones de personas",
+        "100 mil personas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cada año fallecen aproximadamente 1,3 millones de personas a causa de siniestros viales en el mundo, según la OMS (2018).",
+      "source": "Algunas consideraciones sobre los siniestros viales en el mundo y en Colombia",
+      "isFree": false
+    },
+    {
+      "id": "q132",
+      "category": "otros",
+      "difficulty": "media",
+      "question": "¿Qué acciones menciona el manual como estrategias para mitigar los efectos adversos de la movilidad sobre la calidad del aire?",
+      "options": [
+        "Prohibir el uso de la bicicleta en las ciudades",
+        "Eliminar completamente el transporte público",
+        "Aumentar el número de vehículos particulares en circulación",
+        "Promover el carpooling, el transporte público y la bicicleta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acciones como el carpooling, el mejoramiento del transporte público y la promoción de la bicicleta son estrategias para mitigar los efectos adversos de la movilidad.",
+      "source": "2.1.1.2 La movilidad sostenible",
+      "isFree": false
+    },
+    {
+      "id": "q133",
+      "category": "otros",
+      "difficulty": "media",
+      "question": "Según el manual, ¿qué se recomienda verificar respecto al peso del vehículo antes de iniciar un viaje largo, para conducir de forma eficiente?",
+      "options": [
+        "Cargar el vehículo al máximo de su capacidad siempre",
+        "Retirar la llanta de repuesto para aligerar peso",
+        "Vaciar por completo el tanque de combustible",
+        "Verificar que no haya objetos de peso excesivo innecesarios"
+      ],
+      "correctIndex": 3,
+      "explanation": "Se debe verificar no tener objetos de excesivo peso que no sean necesarios para el viaje, como cajas de herramientas o portaequipajes innecesarios.",
+      "source": "Prepare su vehículo para el viaje",
+      "isFree": false
+    },
+    {
+      "id": "q134",
+      "category": "otros",
+      "difficulty": "alta",
+      "question": "Según datos de la OMS citados en el manual, ¿qué porcentaje de los fallecidos por siniestros viales en el mundo se concentra en países de ingresos bajos y medios, que solo tienen el 54% de los vehículos motorizados del mundo?",
+      "options": [
+        "50%",
+        "75%",
+        "20%",
+        "93%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Según la OMS (2017), el 93% de los fallecidos por siniestros viales están en países de ingresos bajos y medios, que solo registran el 54% de los vehículos motorizados del mundo.",
+      "source": "Algunas consideraciones sobre los siniestros viales en el mundo y en Colombia",
+      "isFree": false
+    },
+    {
+      "id": "q135",
+      "category": "otros",
+      "difficulty": "alta",
+      "question": "En Colombia, según cifras del DANE (2019) citadas en el manual, ¿qué porcentaje de la mortalidad total del país representan las muertes asociadas a siniestros viales?",
+      "options": [
+        "0,5%",
+        "3,0%",
+        "10%",
+        "25%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las muertes asociadas a siniestros viales representan el 3,0% de la mortalidad del país, según el DANE (2019).",
+      "source": "Algunas consideraciones sobre los siniestros viales en el mundo y en Colombia",
+      "isFree": false
+    },
+    {
+      "id": "q136",
+      "category": "otros",
+      "difficulty": "alta",
+      "question": "Según el estudio 'Hipótesis de causas probables en los Siniestros Viales de Colombia' de la ANSV (2022) citado en el manual, ¿a qué factor se asocia más del 90% de los siniestros viales estudiados?",
+      "options": [
+        "A fallas mecánicas del vehículo",
+        "Al comportamiento humano",
+        "Al mal estado de las vías",
+        "A condiciones climáticas adversas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Más del 90% de los siniestros viales que hicieron parte del estudio se asocian al factor de 'Comportamiento Humano'.",
+      "source": "2.1.2.2 Infracciones a las normas de tránsito más frecuentes y su incidencia en la seguridad vial",
+      "isFree": false
+    }
+  ]
+}
